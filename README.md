@@ -4,7 +4,7 @@
 
 npx json-server clientes.json -- banco em json
 npx nodemon server.js -- backend em node
-
+npx nodemon app.js -- frontend
 
 
   <h3>Tópicos abordados:</h3>
